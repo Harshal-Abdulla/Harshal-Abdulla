@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Harshal-Abdulla
-- 👀 I’m interested in javaScript, Web Dev, pythom,etc
-- 🌱 I’m currently learning as a computer science engineer
+- 👀 I’m interested in javaScript, Web Dev, python,etc
+- 🌱 I’m currently learning as a Computer Science Engineer
 - 📫 You can reach me on snap: harshalabz
