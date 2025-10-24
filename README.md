@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Harshal-Abdulla
-- 👀 I’m interested in React, Web Dev, Java, Frontend,etc
+- 👀 I’m interested in React, Web Dev, Java, Frontend, Python and currently pursuing in Backend.
 - 🌱 I’m currently doing my masters in Computer Science.
 - 📫 You can reach me on snap: harshalabz
